@@ -6,15 +6,30 @@ Vengo del mundo de la mecánica, donde desarrollé habilidades analíticas y de 
 
 💻 Tecnologías que manejo:
 
-- Backend: Laravel, Node.js, Spring Boot, Ontimize Boot.
+- Backend: ![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?logo=Laravel&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/Node.Js-%235FA04E?logo=Node.Js&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/Spring_Boot-%236DB33F?logo=Spring%20Boot&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/Ontimize_Boot-red)
+  .
 
-- Frontend: Angular.
+- Frontend: ![Static Badge](https://img.shields.io/badge/Angular-%23252D37?logo=Angular&labelColor=%23252D37)
+  , ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=CSS3&logoColor=white)
+  .
 
-- Lenguajes: Java, JavaScript, TypeScript, Kotlin, Python.
+- Lenguajes: ![Static Badge](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/Kotlin-%237F52FF?logo=kotlin&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
+  .
 
-- Herramientas: Git, GitHub.
+- Herramientas: ![Static Badge](https://img.shields.io/badge/Git-%23%23F05032?logo=Git&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/Git_Hub-black?logo=Github&logoColor=white)
+  .
 
-- Metodologías: Scrum (Agile framework).
+- Metodologías: ![Static Badge](https://img.shields.io/badge/Scrum-%23009FDA?logo=Agile%20Scrum&logoColor=white)
+  (Agile framework).
 
 🌱 En constante aprendizaje:
 Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades para crear soluciones eficientes y escalables. Me encanta trabajar en equipo y colaborar en proyectos desafiantes que me permitan seguir creciendo como profesional.
@@ -34,15 +49,30 @@ I come from the world of mechanics, where I developed strong analytical and prob
 
 💻 Technologies I work with:
 
-- Backend: Laravel, Node.js, Spring Boot, Ontimize Boot.
+- Backend: ![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?logo=Laravel&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/Node.Js-%235FA04E?logo=Node.Js&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/Spring_Boot-%236DB33F?logo=Spring%20Boot&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/Ontimize_Boot-red)
+  .
 
-- Frontend: Angular.
+- Frontend: ![Static Badge](https://img.shields.io/badge/Angular-%23252D37?logo=Angular&labelColor=%23252D37)
+  , ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=CSS3&logoColor=white)
+  .
 
-- Languages: Java, JavaScript, TypeScript, Kotlin, Python.
+- Languages: ![Static Badge](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/Kotlin-%237F52FF?logo=kotlin&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
+  .
 
-- Tools: Git, GitHub.
+- Tools: ![Static Badge](https://img.shields.io/badge/Git-%23%23F05032?logo=Git&logoColor=white)
+  , ![Static Badge](https://img.shields.io/badge/Git_Hub-black?logo=Github&logoColor=white)
+  .
 
-- Methodologies: Scrum (Agile framework).
+- Methodologies: ![Static Badge](https://img.shields.io/badge/Scrum-%23009FDA?logo=Agile%20Scrum&logoColor=white)
+  (Agile framework).
 
 🌱 Always learning:
 I’m constantly exploring new technologies and improving my skills to create efficient and scalable solutions. I love working in teams and collaborating on challenging projects that help me grow as a professional.
