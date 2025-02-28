@@ -23,6 +23,9 @@ Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades para cr
 En mi perfil de GitHub encontrarás algunos de mis proyectos personales y colaboraciones. ¡No dudes en explorarlos y dejar tus comentarios!
 
 
+---
+
+
 ## About me 📣
 
 Hi there! 👋 I'm ***Adela Santalla***, a FullStack developer with a passion for technology and problem-solving.
