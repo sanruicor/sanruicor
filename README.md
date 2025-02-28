@@ -6,13 +6,15 @@ Vengo del mundo de la mecánica, donde desarrollé habilidades analíticas y de 
 
 💻 Tecnologías que manejo:
 
-Backend: Laravel, Node.js, Spring Boot, Ontimize Boot.
+- Backend: Laravel, Node.js, Spring Boot, Ontimize Boot.
 
-Frontend: Angular.
+- Frontend: Angular.
 
-Lenguajes: Java, JavaScript, TypeScript, Kotlin, Python.
+- Lenguajes: Java, JavaScript, TypeScript, Kotlin, Python.
 
-Herramientas: Git, GitHub.
+- Herramientas: Git, GitHub.
+
+- Metodologías: Scrum (Agile framework).
 
 🌱 En constante aprendizaje:
 Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades para crear soluciones eficientes y escalables. Me encanta trabajar en equipo y colaborar en proyectos desafiantes que me permitan seguir creciendo como profesional.
@@ -29,13 +31,15 @@ I come from the world of mechanics, where I developed strong analytical and prob
 
 💻 Technologies I work with:
 
-Backend: Laravel, Node.js, Spring Boot, Ontimize Boot.
+- Backend: Laravel, Node.js, Spring Boot, Ontimize Boot.
 
-Frontend: Angular.
+- Frontend: Angular.
 
-Languages: Java, JavaScript, TypeScript, Kotlin, Python.
+- Languages: Java, JavaScript, TypeScript, Kotlin, Python.
 
-Tools: Git, GitHub.
+- Tools: Git, GitHub.
+
+- Methodologies: Scrum (Agile framework).
 
 🌱 Always learning:
 I’m constantly exploring new technologies and improving my skills to create efficient and scalable solutions. I love working in teams and collaborating on challenging projects that help me grow as a professional.
