@@ -1,6 +1,6 @@
 ## Sobre mi 📣
 
-¡Hola! 👋 Soy ***Adela Santalla***, una desarrolladora FullStack con una pasión por la tecnología y la resolución de problemas.
+¡Hola! 👋 Soy ***Adela Santalla***, una desarrolladora FullStack con pasión por la tecnología y la resolución de problemas.
 🚀 Mi trayectoria:
 Vengo del mundo de la mecánica, donde desarrollé habilidades analíticas y de resolución de problemas que ahora aplico en el desarrollo de software. Mi transición al mundo tech me ha permitido combinar mi curiosidad por la tecnología con mi capacidad para aprender y adaptarme rápidamente.
 
@@ -43,7 +43,7 @@ En mi perfil de GitHub encontrarás algunos de mis proyectos personales y colabo
 
 ## About me 📣
 
-Hi there! 👋 I'm ***Adela Santalla***, a FullStack developer with a passion for technology and problem-solving.
+Hi there! 👋 I'm ***Adela Santalla***, a FullStack developer with passion for technology and problem-solving.
 🚀 My background:
 I come from the world of mechanics, where I developed strong analytical and problem-solving skills that I now apply to software development. My transition into the tech world has allowed me to combine my curiosity for technology with my ability to learn and adapt quickly.
 
